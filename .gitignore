@@ -16,4 +16,8 @@ MANIFEST
 dist
 pip-selfcheck.json
 
+.coverage
+
 .vscode/
+coverage.xml
+coverage.lcov
